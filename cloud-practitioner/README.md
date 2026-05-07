@@ -21,7 +21,7 @@ AWS Cloud Quest role focused on foundational cloud concepts — storage, compute
 
 ## Skills covered
 
-`Amazon S3` `EC2` `VPC` `IAM` `DynamoDB` `EFS` `Auto Scaling` `CloudWatch`
+`Amazon S3`
 
 ---
 _Part of my [AWS Cloud Quest Labs](../README.md) repo._
